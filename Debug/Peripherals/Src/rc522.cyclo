@@ -1,0 +1,14 @@
+../Peripherals/Src/rc522.c:9:6:rc522_init	1
+../Peripherals/Src/rc522.c:30:9:rc522_regRead8	1
+../Peripherals/Src/rc522.c:44:6:rc522_regWrite8	1
+../Peripherals/Src/rc522.c:55:6:rc522_setBit	1
+../Peripherals/Src/rc522.c:63:6:rc522_clearBit	1
+../Peripherals/Src/rc522.c:71:6:rc522_reset	1
+../Peripherals/Src/rc522.c:79:6:rc522_antennaON	2
+../Peripherals/Src/rc522.c:92:6:rc522_checkCard	2
+../Peripherals/Src/rc522.c:110:6:rc522_request	3
+../Peripherals/Src/rc522.c:126:6:rc522_toCard	18
+../Peripherals/Src/rc522.c:227:6:rc522_antiColl	4
+../Peripherals/Src/rc522.c:258:6:rc522_halt	1
+../Peripherals/Src/rc522.c:270:6:rc522_calculateCRC	4
+../Peripherals/Src/rc522.c:299:6:rc522_compareIds	3

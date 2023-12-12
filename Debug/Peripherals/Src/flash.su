@@ -1,0 +1,9 @@
+../Peripherals/Src/flash.c:6:6:Flash_Erase	40	static
+../Peripherals/Src/flash.c:17:6:Flash_Write_2Byte	24	static
+../Peripherals/Src/flash.c:22:6:Flash_Write_4Byte	24	static
+../Peripherals/Src/flash.c:27:6:Flash_Write_Array	32	static
+../Peripherals/Src/flash.c:35:10:Flash_Read_Byte	16	static
+../Peripherals/Src/flash.c:38:10:Flash_Read_2Byte	16	static
+../Peripherals/Src/flash.c:41:10:Flash_Read_4Byte	16	static
+../Peripherals/Src/flash.c:44:10:Flash_Read_8Byte	16	static
+../Peripherals/Src/flash.c:47:7:Flash_Read_Array	32	static

@@ -1,0 +1,12 @@
+../Peripherals/Src/lcd_4bit.c:15:6:LCD_config_gpio	1
+../Peripherals/Src/lcd_4bit.c:32:6:LCD_Write	3
+../Peripherals/Src/lcd_4bit.c:69:6:LCD_Init	1
+../Peripherals/Src/lcd_4bit.c:91:6:SetCursor	3
+../Peripherals/Src/lcd_4bit.c:106:6:WriteChar	1
+../Peripherals/Src/lcd_4bit.c:110:6:WriteString	2
+../Peripherals/Src/lcd_4bit.c:118:6:Clear	1
+../Peripherals/Src/lcd_4bit.c:123:6:ReturnHome	1
+../Peripherals/Src/lcd_4bit.c:129:6:CursorOn	1
+../Peripherals/Src/lcd_4bit.c:133:6:CursorOff	1
+../Peripherals/Src/lcd_4bit.c:138:6:BlinkOn	1
+../Peripherals/Src/lcd_4bit.c:143:6:BlinkOff	1
